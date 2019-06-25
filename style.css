@@ -1,0 +1,37 @@
+/* CSS files add styling rules to your content */
+<code>
+@media screen and (max-width: 481px){
+
+body {
+
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+    margin: auto 10px;
+    width: auto;
+    height: 2000px;
+    background-color: black;
+}
+}
+ 
+h1 {
+  font-style: italic;
+  color: #373fff;
+    margin: auto 5px;
+    width: auto;
+    height: 45px;
+    background-color: black;
+}
+}
+p {
+      margin: auto 10px;
+    width: auto;
+    height: 2000px;
+    background-color: black;
+}
+}
+
+
+
+
+}
+</code>
+
